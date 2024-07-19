@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "May",
+    "idade": 29,
+    "email": "may@gmail.com",
+    "pontos": 1
+  },
+  {
+    "nome": "Gaby",
+    "idade": 26,
+    "email": "gaby@gmail.com",
+    "pontos": 3
+  },
+  {
+    "nome": "Diule",
+    "idade": 25,
+    "email": "diule@gmail.com",
+    "pontos": 0
+  },
+  {
+    "nome": "Danilo",
+    "idade": 35,
+    "email": "danilo@gmail.com",
+    "pontos": 0
+  }
+]
